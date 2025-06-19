@@ -1,0 +1,6 @@
+
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Frappe
+include themes/catppuccin-frappe.conf
+# END_KITTY_THEME
